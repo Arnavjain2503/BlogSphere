@@ -13,17 +13,18 @@
 ## Screenshots
 | Page/Feature                  | Screenshot                                  |
 | ----------------------------- | ------------------------------------------- |
-| 🏠 Home Page                  | ![](./screenshots/Screenshot%20\(141\).png) |
+| 🏠 Home Page                  | ![](./screenshots/Screenshot%20\(147\).png) |
 | 🔐 Login Page                 | ![](./screenshots/Screenshot%20\(144\).png) |
-| 📝 Blog Creation Page         | ![](./screenshots/Screenshot%20\(145\).png) |
-| 📄 Blog Post View             | ![](./screenshots/Screenshot%20\(146\).png) |
-| 🗂️ All Blogs Page            | ![](./screenshots/Screenshot%20\(147\).png) |
-| ✍️ Edit Blog Page             | ![](./screenshots/Screenshot%20\(148\).png) |
-| 📬 Contact Us Page            | ![](./screenshots/Screenshot%20\(149\).png) |
-| 👤 User Logged In View        | ![](./screenshots/Screenshot%20\(150\).png) |
-| 🔓 Register Page              | ![](./screenshots/Screenshot%20\(151\).png) |
-| ⚙️ Footer + Developer Credits | ![](./screenshots/Screenshot%20\(152\).png) |
-| 📸 CSI Assignment Branding    | ![](./screenshots/Screenshot%20\(153\).png) |
+| 📝 Blog Creation Page         | ![](./screenshots/Screenshot%20\(143\).png) |
+| 📄 Blog Post View             | ![](./screenshots/Screenshot%20\(151\).png) |
+| ✍️ Edit Blog Page             | ![](./screenshots/Screenshot%20\(154\).png) |
+| 👤 Update Blog Page             | ![](./screenshots/Screenshot%20\(155\).png) |
+| 📬 Contact Us Page            | ![](./screenshots/Screenshot%20\(153\).png) |
+| 🔓 Register Page              | ![](./screenshots/Screenshot%20\(141\).png) |
+| ⚙️ Main Page                  | ![](./screenshots/Screenshot%20\(147\).png) |
+| ⚙️ Main Page                  | ![](./screenshots/Screenshot%20\(148\).png) |
+| ⚙️ Main Page                  | ![](./screenshots/Screenshot%20\(149\).png) |
+| ⚙️ Main Page                  | ![](./screenshots/Screenshot%20\(150\).png) |
 
 ## Introduction
 
