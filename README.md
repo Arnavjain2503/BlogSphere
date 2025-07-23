@@ -10,6 +10,21 @@
 - [Contribution](#contribution)
 - [Contact Us](#contact-us)
 
+## Screenshots
+| Page/Feature                  | Screenshot                                  |
+| ----------------------------- | ------------------------------------------- |
+| 🏠 Home Page                  | ![](./screenshots/Screenshot%20\(141\).png) |
+| 🔐 Login Page                 | ![](./screenshots/Screenshot%20\(144\).png) |
+| 📝 Blog Creation Page         | ![](./screenshots/Screenshot%20\(145\).png) |
+| 📄 Blog Post View             | ![](./screenshots/Screenshot%20\(146\).png) |
+| 🗂️ All Blogs Page            | ![](./screenshots/Screenshot%20\(147\).png) |
+| ✍️ Edit Blog Page             | ![](./screenshots/Screenshot%20\(148\).png) |
+| 📬 Contact Us Page            | ![](./screenshots/Screenshot%20\(149\).png) |
+| 👤 User Logged In View        | ![](./screenshots/Screenshot%20\(150\).png) |
+| 🔓 Register Page              | ![](./screenshots/Screenshot%20\(151\).png) |
+| ⚙️ Footer + Developer Credits | ![](./screenshots/Screenshot%20\(152\).png) |
+| 📸 CSI Assignment Branding    | ![](./screenshots/Screenshot%20\(153\).png) |
+
 ## Introduction
 
 Welcome to **Blogosphere** - your go-to destination for a feature-rich and immersive blogging experience! 🚀 In the vast landscape of the internet, Blogosphere stands out as a meticulously designed blog application created using the MERN stack. Whether you're an avid writer or an enthusiastic reader, Blogosphere is tailored to meet your blogging needs with style and functionality.
@@ -181,3 +196,6 @@ Now, both the client and server are installed and running. You can access the fr
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
+## Contact Us
+- 📧 jarnav2503@gmail.com
+- 👤 Developed by: Arnav Jain
