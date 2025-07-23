@@ -181,10 +181,3 @@ Now, both the client and server are installed and running. You can access the fr
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
-## Contact Us
-
-📬 Feel free to reach out to us on social media:
-
-- Portfolio: [vijaisuria.github.io](https://vijaisuria.github.io)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/vijaisuria/)
-- Email: vijaisuria87@gmail.com
